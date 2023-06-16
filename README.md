@@ -1,6 +1,6 @@
 ### Olá eu sou João Vitor Pinheirod desenvolvedor Front-End / Full Stack👋
 
-[![Portfolio](https://img.shields.io/website?label=joaovps.com&style=for-the-badge&url=https://joaovpinheiros.com)]()
+[![Portfolio](https://img.shields.io/website?label=joaovpinheiros.com&style=for-the-badge&url=https://joaovpinheiros.com)]()
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-pinheiro-711863188/)
 
 ![joaovpinheirop GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovpinheirop&show_icons=true&theme=transparent)
