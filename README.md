@@ -1,4 +1,4 @@
-### Olá, eu sou João Vitor Pinheiro, desenvolvedor Front-End / Full Stack 👋
+### Olá, eu sou João 👋
 
 [![Portfolio](https://img.shields.io/website?label=joaovpinheiros.com&style=for-the-badge&url=https://joaovpinheiros.com)](https://joaovpinheiros.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-pinheiro-711863188/)
