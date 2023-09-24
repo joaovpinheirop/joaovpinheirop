@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/joao-vitor-pinheiro-711863188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-## Tecnologias Usadas
+## Main Skills
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Javascript&logoColor=FF3351&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=FF3351&labelColor=0D1117)&nbsp; 
@@ -28,7 +28,7 @@
 
 
 
-## Tecnologias que estou estudando no momento
+## Technologies I am currently studying.
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Javascript&logoColor=FF3351&labelColor=0D1117)&nbsp; 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=FF3351&labelColor=0D1117)&nbsp;
