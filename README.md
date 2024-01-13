@@ -23,17 +23,17 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Javascript&logoColor=FF3351&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=FF3351&labelColor=0D1117)&nbsp; 
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF3351&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=FF3351&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logoColor=FF3351&labelColor=0D1117)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=FF3351&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=FF3351&labelColor=0D1117)&nbsp;
 
 
 
 ## Technologies I am currently studying.
 
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Javascript&logoColor=FF3351&labelColor=0D1117)&nbsp; 
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=FF3351&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=FF3351&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logoColor=FF3351&labelColor=0D1117)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=FF3351&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=FF3351&labelColor=0D1117)&nbsp;
 
 
 
