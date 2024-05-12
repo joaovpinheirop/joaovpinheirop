@@ -12,26 +12,26 @@
 
 
 <div align="center"> 
-<a href="https://joaovpinheiros.com/" target="_blank"><img src="https://img.shields.io/badge/-Site-%23E4405F?style=for-the-badge&logo=&logoColor=white"</a>
+<a href="https://joaovpinheiros.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Site-%23E4405F?style=for-the-badge&logo=&logoColor=white"</a>
 <a href = "mailto:cmp.1a.joaovpinheiros@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joao-vitor-pinheiro-711863188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 ## Main Skills
 
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=Csharp&logoColor=FF3351&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=DotNet&logoColor=FF3351&labelColor=0D1117)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Javascript&logoColor=FF3351&labelColor=0D1117)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=FF3351&labelColor=0D1117)&nbsp; 
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF3351&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logoColor=FF3351&labelColor=0D1117)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=Unity&logoColor=FF3351&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-Cshasrp-0D1117?style=for-the-badge&logo=Csharp&logoColor=FF3351&labelColor=0D1117)&nbsp;
-
-
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=FF3351&labelColor=0D1117)&nbsp; 
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF3351&labelColor=0D1117)&nbsp;
 
 ## Technologies I am currently studying.
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logoColor=FF3351&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=FF3351&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=Csharp&logoColor=FF3351&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=DotNet&logoColor=FF3351&labelColor=0D1117)&nbsp;
 
 
 
