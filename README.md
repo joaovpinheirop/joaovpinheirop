@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3351&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+My+name+is+Joao+Vitor+Piheiro;I+am+developer+Front-End+🖥️;I'm+21+years+old;I'm+from+Brazil;Welcome!+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3351&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+My+name+is+Joao+Vitor+Piheiro;I+am+developer+Front-End+🖥️;I'm+23+years+old;I'm+from+Brazil;Welcome!+😊)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovpinheirop&bg_color=000000&color=ffffff&line=f00a43&point=f00a43&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
